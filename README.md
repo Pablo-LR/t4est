@@ -9,7 +9,7 @@ In the photo you can add:
 - Price
 
 <p align="center">
-  <img src="https://i.imgur.com/v6iJFar.png" height="%50"/>
+  <img src="https://i.imgur.com/v6iJFar.png" height="100"/>
 </p>
 
 ### Gallery
