@@ -1,21 +1,17 @@
-# Shopping Camera
-## Android App
+# Pokemon Cards
 
-### Camera
-Shopping Camera is an app to take photos of products and save it in a gallery.
-In the photo you can add:
-- Name
-- Description
-- Price
+This is a webpage that shows a list of pokemons in a form of cards.
 
-<p float="left">
-  <img src="https://i.imgur.com/4ADAKVg.png" height="750" />
-  <img src="https://i.imgur.com/v6iJFar.png" height="750" /> 
+<p alignt="center">
+  <img src="https://i.imgur.com/6DdfkRZ.png"/>
 </p>
 
-### Gallery
-In the gallery you can view again the photos and their description
-<p float="left">
-  <img src="https://i.imgur.com/e4dqabZ.png" height="750" />
-  <img src="https://i.imgur.com/l0kUqpa.png" height="750" /> 
+If you click in one of them it will show you:
+
+- Height
+- Weight
+- Number of abilities
+
+<p alignt="center">
+  <img src="https://i.imgur.com/6p8mCxk.png"/>
 </p>
