@@ -8,13 +8,14 @@ In the photo you can add:
 - Description
 - Price
 
-<p align="center">
-  <img src="https://i.imgur.com/v6iJFar.png" height="500"/>
+<p float="left">
+  <img src="https://i.imgur.com/4ADAKVg.png" height="750" />
+  <img src="https://i.imgur.com/v6iJFar.png" height="750" /> 
 </p>
 
 ### Gallery
 In the gallery you can view again the photos and their description
 <p float="left">
-  <img src="https://i.imgur.com/e4dqabZ.png" width="%50" />
-  <img src="https://i.imgur.com/l0kUqpa.png" width="%50" /> 
+  <img src="https://i.imgur.com/e4dqabZ.png" height="750" />
+  <img src="https://i.imgur.com/l0kUqpa.png" height="750" /> 
 </p>
